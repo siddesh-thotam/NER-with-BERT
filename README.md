@@ -11,6 +11,8 @@ The model is trained on the **CoNLL2003 dataset** and can identify entities such
 
 ---
 
+Please Edit The Code as per Your CPU/GPU requirements , It Takes Lot of time to train if your CPU/GPU is Weak . 
+
 ## Project Structure
 
 NER-with-BERT
