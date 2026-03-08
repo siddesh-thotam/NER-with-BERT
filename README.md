@@ -54,12 +54,6 @@ python -m src.train
 ## Inference
 
 Run the terminal NER interface:
-
----
-
-## Inference
-
-Run the terminal NER interface:
 python src/terminal_ner.py
 
 
